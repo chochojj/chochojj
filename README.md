@@ -6,13 +6,14 @@
   ## ✨ About me 
   
 <p> 이것저것 만들기 좋아하는 프론트엔드 개발자입니다 </p>
-[**포트폴리오 방문하기**](https://hyejj-portfolio.vercel.app)
+
+ [**포트폴리오 방문하기**](https://hyejj-portfolio.vercel.app)
+ <br/>
  <br/>
  <a href="https://www.notion.so/chochojj/TIL-512e6f89bf1f41228a69b97a1336b37e?pvs=4"><img src="https://img.shields.io/badge/Blog-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> 
  <a href="mailto:csgy114@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <br/>
- <br/>
- 
+
   ## 💻Stack
 
  ### Front
