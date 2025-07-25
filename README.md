@@ -9,7 +9,7 @@
 
  <br/>
  <br/>
-/* <a href="https://www.notion.so/chochojj/TIL-512e6f89bf1f41228a69b97a1336b37e?pvs=4"><img src="https://img.shields.io/badge/Blog-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> */
+<!--  <a href="https://www.notion.so/chochojj/TIL-512e6f89bf1f41228a69b97a1336b37e?pvs=4"><img src="https://img.shields.io/badge/Blog-AD29B6?style=flat-square&logo=Tidal&logoColor=white"/></a> -->
  <a href="mailto:csgy114@gmail.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
  <br/>
 
